@@ -1,0 +1,10 @@
+==== Execucao em 12/10/2026 20:40:19 ====
+Palavra: Renato | SHIFT: 8 | Sequencia: Fibonacci
+Letra 1: 'r' (pos 17) | seq = 1 | deslocamento = 9 | resultado = 'a'
+Letra 2: 'e' (pos 4) | seq = 1 | deslocamento = 9 | resultado = 'n'
+Letra 3: 'n' (pos 13) | seq = 2 | deslocamento = 10 | resultado = 'x'
+Letra 4: 'a' (pos 0) | seq = 3 | deslocamento = 11 | resultado = 'l'
+Letra 5: 't' (pos 19) | seq = 5 | deslocamento = 13 | resultado = 'g'
+Letra 6: 'o' (pos 14) | seq = 8 | deslocamento = 16 | resultado = 'e'
+Palavra criptografada: anxlge
+
